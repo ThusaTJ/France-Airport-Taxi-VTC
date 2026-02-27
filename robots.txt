@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://www.groupbluevanparis.com/sitemap.xml
+Sitemap: https://thusatj.github.io/France-Airport-Taxi-VTC/sitemap.xml
 
 # Disallow admin or private directories if any
 Disallow: /admin/
