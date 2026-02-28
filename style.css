@@ -132,11 +132,13 @@ p { margin-bottom: 0; }
 .book-now {
   background: var(--gold);
   color: var(--dark);
-  border-color: var(--gold);
+  padding: 6px 18px;
+  border: 2px solid var(--gold);
+  border-radius: 5px;
 }
 
 .book-now:hover {
-  border-color: var(--gold); 
+  background: none; 
   text-decoration: none;
 }
 
