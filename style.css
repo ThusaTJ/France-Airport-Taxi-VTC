@@ -129,6 +129,12 @@ p { margin-bottom: 0; }
   background: rgba(30, 92, 58, 0.08);
 }
 
+.book-now {
+  background: var(--gold);
+  color: var(--dark);
+  border-color: var(--gold);
+}
+
 .hamburger {
   display: none;
   background: none;
