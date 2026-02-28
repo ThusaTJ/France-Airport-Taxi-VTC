@@ -135,6 +135,11 @@ p { margin-bottom: 0; }
   border-color: var(--gold);
 }
 
+.book-now:hover {
+  border-color: var(--gold); 
+  text-decoration: none;
+}
+
 .hamburger {
   display: none;
   background: none;
